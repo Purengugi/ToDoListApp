@@ -49,8 +49,8 @@ To-Do-List-App/
 You can clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/GoodnessJames/To-Do-List-App.git
-cd To-Do-List-App
+git clone https://github.com/Purengugi/ToDoListApp.git
+cd ToDoListApp
 ```
 
 Or create the project structure manually and copy the provided code.
@@ -150,11 +150,3 @@ Contributions are welcome!
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## **Contact**
-
-If you have any questions or need further assistance, feel free to contact me:
-
-- Name: Goodness James Akoma
-- Email: akomagoodness97@gmail.com
-- GitHub: [Github Profile](https://github.com/GoodnessJames)
